@@ -7,8 +7,8 @@
   
   Then it gives infinity as a result.
   
- ## Scenario: Divide 0 by any number
- 
+## Scenario: Divide 0 by any number
+
   When we enter first operand as 0.
   And we divide it with any number.
   
