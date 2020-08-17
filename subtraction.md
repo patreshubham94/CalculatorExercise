@@ -16,4 +16,3 @@ When:One number is positive and another is negative number.
   
 Then:Do addition of two digits.
 And the number which is large, put its sign infront of result.
-  
