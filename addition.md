@@ -22,10 +22,11 @@
   
 ## Scenario3: Addition of more than 2 numbers
 
-   Given the calculator is turned on
-   
-   When I enter 1st number and then plus sign. 
-   And then 2nd number and then again plus and again number.
-   And then after last number is entered, then I enter equals.
-   
-   Then I get addition of all the numbers in the above list.
+  Given that the calculator is ON.
+  
+  When more than 2 numbers are entered.
+  By putting plus sign between 2 consecutive numbers.
+  And I press equals sign.
+  
+  Then I get addition of all number as a result. 
+  
