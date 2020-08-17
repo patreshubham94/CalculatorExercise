@@ -1,6 +1,6 @@
 # Addition
 
-## Scenario1: Addition of two positive numbers
+## Scenario: Addition of two positive numbers
   
   Given the calculator is turn on.
 
@@ -10,7 +10,7 @@
   
   Then I see the "added number" as the result.
   
-## Scenario2: Addition of two negative numbers
+## Scenario: Addition of two negative numbers
 
   Given the calculator is turn on.
   
@@ -20,7 +20,7 @@
   
   Then I see the "addition of two numbers with negative sign".
   
-## Scenario3: Addition of more than 2 numbers
+## Scenario: Addition of more than 2 numbers
 
   Given that the calculator is ON.
   
