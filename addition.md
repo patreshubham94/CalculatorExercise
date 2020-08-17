@@ -24,7 +24,8 @@
 
    Given the calculator is turned on
    
-   When I enter 1st number and then plus sign then 2nd number and then again plus and again number.
+   When I enter 1st number and then plus sign. 
+   And then 2nd number and then again plus and again number.
    And then after last number is entered, then I enter equals.
    
    Then I get addition of all the numbers in the above list.
