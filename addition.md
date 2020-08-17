@@ -1,6 +1,6 @@
 # Addition
 
-Scenario: Addition of two positiove numbers.
+Scenario: Addition of two positive numbers.
   
   Given the calculator is turned on.
 
