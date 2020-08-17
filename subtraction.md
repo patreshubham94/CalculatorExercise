@@ -8,7 +8,7 @@ When:Both the digits are negative.
 
 Then:Add two digits and put minus sign infront of result.
   
-## Scenario: One is positive and another is negative number.
+## Scenario: One is positive and another is negative number
 
 Given:Do subtraction.
   
