@@ -12,7 +12,7 @@ Scenario: Addition of two positive numbers.
   
 Scenario: Addition of two negative numbers.
 
-  Given the calculator is turned on.
+  Given the calculator is turn on.
   
   When I type in "first negative number", And I press plus.
   And I type in "second negative number".
