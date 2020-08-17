@@ -23,13 +23,13 @@
 ## Scenario: Recurring decimal case
 
   When the result of division is recurring.
-  That is after decimal huge number occurs.
+  That is after decimal large number occurs.
   
   Then round off after 2 decimal digits.
   
-## Scenario: Multiple times "/" is pressed
+## Scenario: Manny times "/" occurs
 
-  When multiple times / operator is pressed.
+  When many times / operator occurs in division.
   
   Then only consider one divide operator between two operands.
   And if after / operator no any operand is present.
