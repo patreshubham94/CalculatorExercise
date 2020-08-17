@@ -16,7 +16,7 @@
   
 ## Scenario: Division when both operands are 0
 
-  When both oprands are 0.
+  When both operands are 0 in division.
   
   Then result is also zero.
   
