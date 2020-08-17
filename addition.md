@@ -1,8 +1,8 @@
 ## Addition
 
-# Scenario: Addition of two positive numbers.
+## Scenario: Addition of two positive numbers.
   
-  Given the calculator is turn on.
+ # Given the calculator is turn on.
 
   When I type in "positive number", And I press plus.
   And I type in "positive number".
