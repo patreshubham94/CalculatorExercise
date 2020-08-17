@@ -4,7 +4,7 @@
 
   Given: We need to subtract 2 digits.
   
-  When: Both the digits are negative.
+  When:Both the digits are negative.
   
   Then: Add two digits and put minus sign infront of result.
   
