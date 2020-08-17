@@ -1,6 +1,6 @@
-# Addition
+## Addition
 
-Scenario: Addition of two positive numbers.
+# Scenario: Addition of two positive numbers.
   
   Given the calculator is turn on.
 
@@ -10,9 +10,9 @@ Scenario: Addition of two positive numbers.
   
   Then I see the "added number" as the result.
   
-Scenario: Addition of two negative numbers.
+## Scenario: Addition of two negative numbers.
 
-  Given the calculator is turn on.
+  # Given the calculator is turn on.
   
   When I type in "first negative number", And I press plus.
   And I type in "second negative number".
