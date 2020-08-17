@@ -9,3 +9,13 @@ Scenario: Addition of two positive numbers.
   And I press "equals".
   
   Then I see the "added number" as the result.
+  
+Scenario: Addition of two negative numbers.
+
+  Given the calculator is turned on.
+  
+  When I type in "first negative number", And I press plus.
+  And I type in "second negative number".
+  And I press equal sign.
+  
+  Then I see the "addition of two numbers with negative sign".
