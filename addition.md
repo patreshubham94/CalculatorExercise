@@ -28,5 +28,5 @@
   By putting plus sign between 2 consecutive numbers.
   And I press equals sign.
   
-  Then I get addition of all number as a result. 
+  Then I get addition of all number as a result.
   
