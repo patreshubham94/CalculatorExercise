@@ -24,7 +24,7 @@
 
   Given that the calculator is ON.
   
-  When more than 2 numbers are entered.
+  When we enter more than two numbers.
   By putting plus sign between 2 consecutive numbers.
   And I press equals sign.
   
