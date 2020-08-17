@@ -16,7 +16,7 @@
   
 ## Scenario: Division when both operands are 0
 
-  When both oprands are 0 in division.
+  In division, when both oprands are 0.
   
   Then result is also zero.
   
@@ -25,7 +25,7 @@
   When the result of division is recurring.
   That is after decimal huge number occurs.
   
-  Then round off upto 2 decimal digits.
+  Then round off after 2 decimal digits.
   
 ## Scenario: Multiple times "/" is pressed
 
