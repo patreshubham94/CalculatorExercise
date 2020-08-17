@@ -27,10 +27,10 @@
   
   Then round off after 2 decimal digits.
   
-## Scenario: Many times "/" occurs
+## Scenario: More than one times "/" occurs
 
-  When many times / operator occurs in division.
+  When more than one times / operator occurs in division.
   
-  Then only consider one divide operator between two operands.
+  Then consider one divide operator between two operands.
   And if after / operator no any operand is present.
   Then neglect that / operator.
