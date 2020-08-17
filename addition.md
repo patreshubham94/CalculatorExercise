@@ -29,4 +29,3 @@
   And I press equals sign.
   
   Then I get addition of all number as a result.
-  
