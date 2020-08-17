@@ -30,7 +30,7 @@
   
   Then I get addition of all number as a result.
   
-  ## Scenario: Addition of more than 2 numbers
+## Scenario: Addition of more than 2 numbers
 
 - Given: On the calculator
 - When: Enter first "number",
