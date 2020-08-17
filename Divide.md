@@ -27,7 +27,7 @@
   
   Then round off after 2 decimal digits.
   
-## Scenario: Manny times "/" occurs
+## Scenario: Many times "/" occurs
 
   When many times / operator occurs in division.
   
