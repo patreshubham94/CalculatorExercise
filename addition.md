@@ -22,16 +22,6 @@
   
 ## Scenario: Addition of more than 2 numbers
 
-  Given that the calculator is ON.
-  
-  When we enter more than two numbers.
-  By putting plus sign between 2 consecutive numbers.
-  And I press equals sign.
-  
-  Then I get addition of all number as a result.
-  
-## Scenario: Addition of more than 2 numbers
-
 - Given: On the calculator
 - When: Enter first "number",
   and then enter second "number",
