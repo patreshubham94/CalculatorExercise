@@ -3,9 +3,7 @@
 ## Scenario: Both the digits are negative
 
 Given:We need to subtract 2 digits.
-
 When:Both the digits are negative.
-  
 Then:Add two digits and put minus sign infront of result.
   
 ## Scenario: One is positive and another is negative number.
